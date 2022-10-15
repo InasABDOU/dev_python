@@ -2,7 +2,7 @@
 """
 Created on Mon Oct  3 21:19:30 2022
 
-@author: HP-Elite
+@author: Inas ABDOU
 """
 
 def calculer_force(pression,surface):
